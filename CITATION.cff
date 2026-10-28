@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: >-
+  If you use this code, please cite the associated paper as well as this repository.
+authors:
+  - family-names: "Li"
+    given-names: "Wenhua"
+  - family-names: "Yao"
+    given-names: "Xingyi"
+  - family-names: "Li"
+    given-names: "Kaiwen"
+  - family-names: "Wang"
+    given-names: "Rui"
+  - family-names: "Zhang"
+    given-names: "Tao"
+title: "M3SWTA"
+version: 1.0.0
+date-released: "2026-10-28"
+repository-code: "https://github.com/Wenhua-Li/M3SWTA"
+license: MIT
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Li"
+      given-names: "Wenhua"
+    - family-names: "Yao"
+      given-names: "Xingyi"
+    - family-names: "Li"
+      given-names: "Kaiwen"
+    - family-names: "Wang"
+      given-names: "Rui"
+    - family-names: "Zhang"
+      given-names: "Tao"
+  title: "Knowledge-Guided Competitive Evolutionary Algorithm for Multi-Solution Sensor-Weapon-Target Assignment Problem"
+  journal: "IEEE Transactions on Evolutionary Computation"
+  year: 2026
+  doi: "10.1109/TEVC.2026.3653800"
